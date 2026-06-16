@@ -46,5 +46,19 @@ The project involved deploying cloud resources, managing storage, and using AWS 
 - Comparing AWS and Azure cloud platforms
   
 ## Project Documentation
+## Project Screenshot
+
+EC2 Instance <img width="1916" height="962" alt="ec2-instance" src="https://github.com/user-attachments/assets/f4b13aa6-4702-4e97-bdef-5ccd03f5eed9" />
+### S3 Bucket
+
+![S3 Bucket](./s3-bucket.png)
+
+### CloudShell Upload
+
+![CloudShell Upload](./cloudshell-upload.png)
+
+### S3 Upload Verification
+
+![S3 Upload Verification](./s3-upload-verification.png)
 
 See `AWS_Cloud_Computing_Report.docx` for the full report.
